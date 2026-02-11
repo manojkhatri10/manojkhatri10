@@ -4,8 +4,7 @@
 
 🎓 Computer Science undergraduate at the University of Akron  
 💻 Aspiring Software Engineer  
-🌍 International student from Nepal  
-
+🇳🇵 International student from Nepal
 
 ## 👨‍💻 About Me
 
