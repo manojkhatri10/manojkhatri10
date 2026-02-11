@@ -13,4 +13,8 @@ I’m a Computer Science student with hands-on experience through academic and p
 I enjoy building full-stack web applications and learning new technologies.
 Currently focused on improving my skills and preparing for software engineering internships and fulltime.
 
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,git,github&size=48" />
+
 </div>
