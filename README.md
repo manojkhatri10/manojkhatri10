@@ -15,6 +15,24 @@ Currently focused on improving my skills and preparing for software engineering 
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,git,github&size=48" />
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js&size=48" />
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ts&size=48" />
+</a>
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react&size=48" />
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs&size=48" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&size=48" />
+</a>
 
 </div>
