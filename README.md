@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0A66C2&center=true&width=600&lines=Hi,+I'm+Manoj+Khatri+%F0%9F%91%8B" />
 
-🎓 Computer Science undergraduate at the University of Akron  
+🎓 Computer Science & Applied Mathematics at the University of Akron  
 💻 Aspiring Software Engineer  
 🇳🇵 International student from Nepal
 
